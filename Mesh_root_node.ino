@@ -7,8 +7,8 @@
 #define MESH_PASSWORD   "somethingSneaky"
 #define MESH_PORT       5555
 
-#define STATION_SSID     "EREN"
-#define STATION_PASSWORD "eren1456"
+#define STATION_SSID     "your_wifi_name"
+#define STATION_PASSWORD "your_wifi_password"
 
 #define MQTT_SERVER "test.mosquitto.org" // MQTT broker adresi
 #define MQTT_PORT 1883
