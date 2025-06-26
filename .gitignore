@@ -1,32 +1,22 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
+# Build output
+*.bin
+*.elf
+*.hex
+*.map
 *.out
-*.app
+*.d
+*.o
+
+# Arduino IDE
+*.ino.*
+*.cpp.*
+*.pyc
+
+# PlatformIO
+.pio/
+.vscode/
+
+# Logs / OS files
+*.log
+.DS_Store
+Thumbs.db
