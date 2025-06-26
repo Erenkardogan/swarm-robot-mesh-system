@@ -4,8 +4,8 @@
 #include <ESP32Ping.h>
 
 // Wi-Fi & MQTT Bilgileri
-const char* ssid = "EREN";
-const char* password = "eren1456";
+const char* ssid = "your_wifi_name";
+const char* password = "your_wifi_password";
 const char* mqtt_server = "test.mosquitto.org";  // MQTT broker IP
 const char* mqtt_topic = "robot/metrics/robot_5";
 
