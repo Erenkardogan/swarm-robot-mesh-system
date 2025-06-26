@@ -7,7 +7,7 @@
 const char* ssid = "your_wifi_name";
 const char* password = "your_wifi_password";
 const char* mqtt_server = "test.mosquitto.org";  // MQTT broker IP
-const char* mqtt_topic = "robot/metrics/robot_5";
+const char* mqtt_topic = "robot/metrics/robot_2";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
