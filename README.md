@@ -1,4 +1,17 @@
-# IoT-mesh-cobot-system
-Swarm or Collaborative robot system using MQTT over ESP-MESH (Graduation Project)
-This project about IoT Mesh system
-Made By - Erenkardogan and omerkaraoglu
+# Swarm Robot Mesh System
+
+This project is a decentralized mesh communication system designed for swarm robotics using ESP32/ESP8266 microcontrollers and the painlessMesh library.
+
+## Features
+- PainlessMesh-based communication
+- MQTT bridge for IoT integration
+- Compatible with ROS/Gazebo
+- Scalable to multiple nodes
+- Real-time messaging
+
+## Installation
+Coming soon...
+
+## License
+MIT
+
